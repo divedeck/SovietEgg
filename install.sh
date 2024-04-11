@@ -28,6 +28,7 @@ $(tput setaf 6) Please note the egg is forked from KlovitEgg (This is essentiall
 
 forceStuffs() {
 mkdir -p plugins && mkdir -p plugins/noMemberShutdown
+cd plugins && curl -O https://raw.githubusercontent.com/AvexXS/sovietegg/main/Reya.jar && cd ../.
 cd plugins && curl -O https://cdn.modrinth.com/data/DgUoVPBP/versions/QucVTrXS/IdleServerShutdown-1.3.jar && cd ../.
 cd plugins && cd noMemberShutdown && curl -O https://raw.githubusercontent.com/AvexXS/SovietEgg/main/config.yml && cd ../. && cd ../.
 echo "eula=true" > eula.txt
