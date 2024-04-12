@@ -43,7 +43,12 @@ curl -s -o tmp/jq -L https://github.com/jqlang/jq/releases/download/jq-1.7rc1/jq
 chmod +x tmp/jq
 fi
 }
+cleanup_files() {
+    rm -f jitdump*.dmp javacore*.txt core*.dmp Snap*.trc
+}
 
+
+cleanup_files
 installPhp() {
 installJq
 
@@ -320,3 +325,8 @@ elif [ -e "nodejs" ]; then
     launchNodeServer
 fi
 fi
+
+while true; do
+    sleep 30
+    cleanup_files
+done
