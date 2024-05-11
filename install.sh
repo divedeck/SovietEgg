@@ -19,7 +19,7 @@ $(tput setaf 6)   ☭ Народная армия непобедима!
 $(tput setaf 6)  
 $(tput setaf 6)   
 $(tput setaf 6)    
-$(tput setaf 6) COPYRIGHT 2024 ReyoServers Technology (https://reyo.run) & https://github.com/AvexXS & https://github.com/beastgamer81
+$(tput setaf 6) COPYRIGHT 2024 ReyoServers Technology (https://reyo.run) & https://github.com/AvexXS
 
     ==========================================================================
     "  
