@@ -10,8 +10,7 @@ This is the ultimate Minecraft egg to fullfill a hosters need of hibernation and
 4) Completely normal server performance when players are online
 5) Has nodejs docker image but doesnt support it just yet.
  
-# [AvexXS](https://github.com/avexXS) - Remade using fork of klovit egg better faster for hibernation hosts!
-This is essentially a better version for hosts looking for autoshutdown and aternos like features with continous features and updates and will be maintained!
+# [AvexXS](https://github.com/avexXS) - For Klovit : I'm waiting for this repo to be taken down
+This is a better version for hosts looking for autoshutdown and aternos like features with continous features and updates and will be maintained!
 
-
-- KlovitEgg is a project of [BeastGamer81](https://github.com/beastgamer81).
+- SovietEgg is the project of AvexXS
