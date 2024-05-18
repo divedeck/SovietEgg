@@ -5,11 +5,12 @@
         "update_url": null
     },
     "exported_at": "2024-03-30T06:41:56+01:00",
-    "name": "SovietEgg - Reyo",
-    "author": "avex@reyo.run",
+    "name": "SovietEgg - Beta",
+    "author": "trash@lushlabs.org",
     "description": null,
     "features": null,
     "docker_images": {
+        "Java 21": "ghcr.io\/pterodactyl\/yolks:java_21",
         "Java 19": "ghcr.io\/pterodactyl\/yolks:java_19j9",
         "Java 18": "ghcr.io\/pterodactyl\/yolks:java_18j9",
         "Java 17": "ghcr.io\/pterodactyl\/yolks:java_17j9",
