@@ -27,7 +27,7 @@ $(tput setaf 6) COPYRIGHT 2024 ReyoServers Technology (https://reyo.run) & https
 
 forceStuffs() {
 mkdir -p plugins && mkdir -p plugins/noMemberShutdown
-cd plugins && curl -O https://raw.githubusercontent.com/AvexXS/sovietegg/main/Reya.jar && cd ../.
+cd plugins && curl -O https://raw.githubusercontent.com/AvexXS/sovietegg/main/hibernate.jar && cd ../.
 cd plugins && curl -O https://www.spigotmc.org/resources/spark.57242/download?version=489830 && cd ../.
 echo "eula=true" > eula.txt
 }
